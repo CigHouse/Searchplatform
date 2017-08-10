@@ -1,2 +1,2 @@
 # Searchplatform
-Search platform based on large data
+Search platform based on big data
